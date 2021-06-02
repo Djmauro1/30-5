@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, RCN TV
+#EXTINF:-1, R C N TV
 https://59ce1298bfb98.streamlock.net/rcntv/rcntv/playlist.m3u8
 #EXTINF:-1,NPY
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4-video=3000000-audio_20000=144800.m3u8
